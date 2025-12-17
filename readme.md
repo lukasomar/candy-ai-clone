@@ -11,16 +11,16 @@
 
   <br>
 
-  <a href="mailto:roxjonez1@gmail.com">
+   <a href="https://paidfam.com/">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"/>
   </a>
 
   <br><br>
 
-  <a href="mailto:roxjonez1@gmail.com">
+  <a href="https://paidfam.com/">
     <img src="https://img.shields.io/badge/Buy%20Now-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Buy Now"/>
   </a>
-  <a href="mailto:roxjonez1@gmail.com">
+ <a href="https://paidfam.com/">
     <img src="https://img.shields.io/badge/Source%20Code-Download-yellow?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 
