@@ -23,7 +23,7 @@
  <a href="https://paidfam.com/">
     <img src="https://img.shields.io/badge/Source%20Code-Download-yellow?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
-  <a href="https://web.whatsapp.com/send?text=hi&phone=254757475299">
+  <a href="https://web.whatsapp.com/send?text=hi&phone=254714902036">
     <img src="https://img.shields.io/badge/Contact-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/>
   </a>
   <br><br>
@@ -69,7 +69,7 @@ This project is licensed under the MIT License
 📧 Contact
 
 For inquiries or suggestions, contact
-📩 [roxjonez1@gmail.com](https://web.whatsapp.com/send?text=hi&phone=254757475299)
+📩 [lukasomar2404@gmail.com](https://web.whatsapp.com/send?text=hi&phone=254714902036)
 
 <div align="center">
 
