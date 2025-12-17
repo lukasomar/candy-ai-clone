@@ -1,5 +1,4 @@
 
-```bash
 <div align="center">
 
   <img src="https://paidfam.com/wp-content/uploads/2025/10/Screenshot-2025-11-04-065033.png" alt="Candy Clone Preview" width="850" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"/>
