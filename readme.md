@@ -11,7 +11,7 @@
 
   <br>
 
-   <a href="https://paidfam.com/">
+   <a href="https://devlukas.com/">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"/>
   </a>
 
@@ -20,7 +20,7 @@
   <a href="https://devlukas.com/">
     <img src="https://img.shields.io/badge/Buy%20Now-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Buy Now"/>
   </a>
- <a href="https://paidfam.com/">
+ <a href="https://devlukas.com/">
     <img src="https://img.shields.io/badge/Source%20Code-Download-yellow?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
   <a href="https://web.whatsapp.com/send?text=hi&phone=254714902036">
