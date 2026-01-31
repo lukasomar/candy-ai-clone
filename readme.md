@@ -17,7 +17,7 @@
 
   <br><br>
 
-  <a href="https://paidfam.com/">
+  <a href="https://devlukas.com/">
     <img src="https://img.shields.io/badge/Buy%20Now-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Buy Now"/>
   </a>
  <a href="https://paidfam.com/">
