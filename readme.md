@@ -57,7 +57,7 @@
 ## 📂 **Project Structure**
 
 CANDY AI CLONE
-🌐 Live Demo : https://girlzone.1987.ai/
+🌐 Live Demo : (https://wildrole.ai/)
 
 👉 View Candy Clone Demo
 
