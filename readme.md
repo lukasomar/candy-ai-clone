@@ -57,7 +57,7 @@
 ## 📂 **Project Structure**
 
 CANDY AI CLONE
-🌐 Live Demo : (https://wildrole.ai/)
+🌐 Live Demo : (https://rmate.com/)
 
 👉 View Candy Clone Demo
 
